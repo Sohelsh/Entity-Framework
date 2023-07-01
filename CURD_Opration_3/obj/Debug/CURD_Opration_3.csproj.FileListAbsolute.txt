@@ -1,0 +1,15 @@
+F:\C#\Entity_Framework\CURD_Opration_3\bin\Debug\CURD_Opration_3.exe.config
+F:\C#\Entity_Framework\CURD_Opration_3\bin\Debug\CURD_Opration_3.exe
+F:\C#\Entity_Framework\CURD_Opration_3\bin\Debug\CURD_Opration_3.pdb
+F:\C#\Entity_Framework\CURD_Opration_3\bin\Debug\EntityFramework.dll
+F:\C#\Entity_Framework\CURD_Opration_3\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\Entity_Framework\CURD_Opration_3\bin\Debug\EntityFramework.xml
+F:\C#\Entity_Framework\CURD_Opration_3\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\Entity_Framework\CURD_Opration_3\obj\Debug\CURD_Opration_3.csproj.AssemblyReference.cache
+F:\C#\Entity_Framework\CURD_Opration_3\obj\Debug\CURD_Opration_3.frm_Employee.resources
+F:\C#\Entity_Framework\CURD_Opration_3\obj\Debug\CURD_Opration_3.Properties.Resources.resources
+F:\C#\Entity_Framework\CURD_Opration_3\obj\Debug\CURD_Opration_3.csproj.GenerateResource.cache
+F:\C#\Entity_Framework\CURD_Opration_3\obj\Debug\CURD_Opration_3.csproj.CoreCompileInputs.cache
+F:\C#\Entity_Framework\CURD_Opration_3\obj\Debug\CURD_Opration_3.csproj.CopyComplete
+F:\C#\Entity_Framework\CURD_Opration_3\obj\Debug\CURD_Opration_3.exe
+F:\C#\Entity_Framework\CURD_Opration_3\obj\Debug\CURD_Opration_3.pdb
