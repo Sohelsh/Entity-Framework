@@ -1,0 +1,15 @@
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\bin\Debug\CURD_Opration_1.exe.config
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\bin\Debug\CURD_Opration_1.exe
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\bin\Debug\CURD_Opration_1.pdb
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\bin\Debug\EntityFramework.dll
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\bin\Debug\EntityFramework.xml
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\obj\Debug\CURD_Opration_1.csproj.AssemblyReference.cache
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\obj\Debug\CURD_Opration_1.frm_Student.resources
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\obj\Debug\CURD_Opration_1.Properties.Resources.resources
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\obj\Debug\CURD_Opration_1.csproj.GenerateResource.cache
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\obj\Debug\CURD_Opration_1.csproj.CoreCompileInputs.cache
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\obj\Debug\CURD_Opration_1.csproj.CopyComplete
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\obj\Debug\CURD_Opration_1.exe
+F:\C#\Practice\Entity_Framework\CURD_Opration_1\obj\Debug\CURD_Opration_1.pdb
