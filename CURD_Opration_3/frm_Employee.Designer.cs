@@ -135,7 +135,7 @@ namespace CURD_Opration_3
             // 
             // btn_Reset
             // 
-            this.btn_Reset.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btn_Reset.BackColor = System.Drawing.Color.White;
             this.btn_Reset.Font = new System.Drawing.Font("Palatino Linotype", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Reset.Location = new System.Drawing.Point(242, 453);
             this.btn_Reset.Name = "btn_Reset";
