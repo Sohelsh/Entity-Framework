@@ -55,6 +55,7 @@ namespace CURD_Opration_3
             this.lbl_Head.Size = new System.Drawing.Size(236, 45);
             this.lbl_Head.TabIndex = 0;
             this.lbl_Head.Text = "Add Employee";
+            this.lbl_Head.Click += new System.EventHandler(this.lbl_Head_Click);
             // 
             // lbl_Name
             // 
@@ -65,6 +66,7 @@ namespace CURD_Opration_3
             this.lbl_Name.Size = new System.Drawing.Size(98, 41);
             this.lbl_Name.TabIndex = 1;
             this.lbl_Name.Text = "Name";
+            this.lbl_Name.Click += new System.EventHandler(this.lbl_Name_Click);
             // 
             // lbl_Gender
             // 
@@ -75,6 +77,7 @@ namespace CURD_Opration_3
             this.lbl_Gender.Size = new System.Drawing.Size(117, 41);
             this.lbl_Gender.TabIndex = 1;
             this.lbl_Gender.Text = "Gender";
+            this.lbl_Gender.Click += new System.EventHandler(this.lbl_Gender_Click);
             // 
             // lbl_City
             // 
@@ -85,6 +88,7 @@ namespace CURD_Opration_3
             this.lbl_City.Size = new System.Drawing.Size(73, 41);
             this.lbl_City.TabIndex = 1;
             this.lbl_City.Text = "City";
+            this.lbl_City.Click += new System.EventHandler(this.lbl_City_Click);
             // 
             // lbl_Age
             // 
@@ -95,6 +99,7 @@ namespace CURD_Opration_3
             this.lbl_Age.Size = new System.Drawing.Size(72, 41);
             this.lbl_Age.TabIndex = 1;
             this.lbl_Age.Text = "Age";
+            this.lbl_Age.Click += new System.EventHandler(this.lbl_Age_Click);
             // 
             // tb_Name
             // 
@@ -103,6 +108,7 @@ namespace CURD_Opration_3
             this.tb_Name.Name = "tb_Name";
             this.tb_Name.Size = new System.Drawing.Size(363, 39);
             this.tb_Name.TabIndex = 1;
+            this.tb_Name.TextChanged += new System.EventHandler(this.tb_Name_TextChanged);
             // 
             // tb_Age
             // 
@@ -111,6 +117,7 @@ namespace CURD_Opration_3
             this.tb_Age.Name = "tb_Age";
             this.tb_Age.Size = new System.Drawing.Size(363, 39);
             this.tb_Age.TabIndex = 2;
+            this.tb_Age.TextChanged += new System.EventHandler(this.tb_Age_TextChanged);
             // 
             // tb_City
             // 
@@ -119,6 +126,7 @@ namespace CURD_Opration_3
             this.tb_City.Name = "tb_City";
             this.tb_City.Size = new System.Drawing.Size(363, 39);
             this.tb_City.TabIndex = 3;
+            this.tb_City.TextChanged += new System.EventHandler(this.tb_City_TextChanged);
             // 
             // cmb_Gender
             // 
@@ -132,6 +140,7 @@ namespace CURD_Opration_3
             this.cmb_Gender.Name = "cmb_Gender";
             this.cmb_Gender.Size = new System.Drawing.Size(363, 39);
             this.cmb_Gender.TabIndex = 4;
+            this.cmb_Gender.SelectedIndexChanged += new System.EventHandler(this.cmb_Gender_SelectedIndexChanged);
             // 
             // btn_Reset
             // 
@@ -192,6 +201,7 @@ namespace CURD_Opration_3
             this.dataGridView.RowTemplate.Height = 24;
             this.dataGridView.Size = new System.Drawing.Size(1070, 309);
             this.dataGridView.TabIndex = 5;
+            this.dataGridView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView_CellContentClick);
             this.dataGridView.MouseClick += new System.Windows.Forms.MouseEventHandler(this.dataGridView_MouseClick);
             // 
             // frm_Employee
