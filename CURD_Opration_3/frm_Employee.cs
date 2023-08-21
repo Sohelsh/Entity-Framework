@@ -127,5 +127,55 @@ namespace CURD_Opration_3
                 MessageBox.Show("You Cancelled Delete Opration", "", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
             }
         }
+
+        private void dataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void cmb_Gender_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_City_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_Age_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tb_Name_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl_Age_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl_Gender_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl_City_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl_Name_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl_Head_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
