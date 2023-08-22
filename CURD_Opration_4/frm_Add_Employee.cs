@@ -21,7 +21,7 @@ namespace CURD_Opration_4
         {
             InitializeComponent();
             leftBorderBtn = new Panel();
-            leftBorderBtn.Size = new Size(7,60);
+            leftBorderBtn.Size = new Size(7,100);
             panelMenu.Controls.Add(leftBorderBtn);
 
             // form
@@ -67,10 +67,10 @@ namespace CURD_Opration_4
         {
             if(currentbtn != null)
             {
-                currentbtn.BackColor = Color.DarkSlateBlue;
-                currentbtn.ForeColor = Color.Black;
+                currentbtn.BackColor = Color.FromArgb(31, 30, 60);
+                currentbtn.ForeColor = Color.Gainsboro;
                 currentbtn.TextAlign = ContentAlignment.MiddleCenter;
-                currentbtn.IconColor = Color.Black;
+                currentbtn.IconColor = Color.Gainsboro;
                 currentbtn.TextImageRelation = TextImageRelation.ImageBeforeText;
                 currentbtn.ImageAlign = ContentAlignment.MiddleLeft;
             }
@@ -94,13 +94,17 @@ namespace CURD_Opration_4
         }
         private void iconButton_Employee_Click(object sender, EventArgs e)
         {
-            OpenChildForm(new frm_Employee());
-            ActivateButton(sender, RGBColors.color2);
+            //OpenChildForm(new frm_Employee());
+             ActivateButton(sender, RGBColors.color2);
+            dropDownMenu2.Show(iconButton_Employee, iconButton_Employee.Width,0);
+            
         }
 
         private void iconButton_List_Click(object sender, EventArgs e)
-        {
+        { 
+            
             ActivateButton(sender, RGBColors.color2);
+            dropDownMenu3.Show(iconButton_List,iconButton_List.Width,0);
         }
 
         private void pictureBox_logo_Click(object sender, EventArgs e)
@@ -114,7 +118,7 @@ namespace CURD_Opration_4
             DisableButton();
             leftBorderBtn.Visible = false;
             iconPictureBox_Home.IconChar = IconChar.Home; ;
-            iconPictureBox_Home.IconColor = Color.MediumOrchid;
+            iconPictureBox_Home.IconColor = Color.MediumOrchid; 
             lbl_Home.Text = "Home";
         }
 
@@ -150,6 +154,32 @@ namespace CURD_Opration_4
         private void iconPictureBox_Minimum_Click(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Minimized;
+        }
+        private void frm_Add_Employee_Load(object sender, EventArgs e)
+        {
+            dropDownMenu1.IsMainMenu = true;
+            dropDownMenu2.IsMainMenu = true;
+            dropDownMenu3.IsMainMenu = true;
+            dropDownMenu4.IsMainMenu = true;
+            //  dropDownMenu3.ISMainMenu = true;
+            dropDownMenu3.PrimaryColor = Color.OrangeRed;
+            dropDownMenu1.PrimaryColor = Color.Purple;
+            dropDownMenu1.MenuItemHeight = 50;
+        }
+
+        private void showToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new frm_Employee());
+        }
+
+        private void iconButton1_Click(object sender, EventArgs e)
+        {
+            dropDownMenu1.Show(iconButton1,iconButton1.Width, 0);
+        }
+
+        private void iconButton2_Click(object sender, EventArgs e)
+        {
+            dropDownMenu4.Show(iconButton2,iconButton2.Width,0);
         }
     }
 }
