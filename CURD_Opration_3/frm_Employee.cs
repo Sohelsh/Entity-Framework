@@ -67,7 +67,7 @@ namespace CURD_Opration_3
 
         private void dataGridView_MouseClick(object sender, MouseEventArgs e)
         {
-            N_Id = Convert.ToInt32(dataGridView.SelectedRows[0].Cells[0].Value);
+            N_Id = Convert.ToInt32(dataGridView.CurrentRow.Cells[0].Value);
             Eobj = dbobj.Employees.Where(x => x.id == N_Id ).FirstOrDefault();
 
             tb_Name.Text = Eobj.Name.ToString();
@@ -78,7 +78,7 @@ namespace CURD_Opration_3
 
         private void btn_Update_Click(object sender, EventArgs e)
         {
-            Eobj.id = N_Id;
+           // Eobj.id = N_Id;
             Eobj.Name = tb_Name.Text.Trim();
             Eobj.Gender = cmb_Gender.SelectedItem.ToString();
             Eobj.City = tb_City.Text.Trim();
