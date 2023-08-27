@@ -193,7 +193,7 @@ namespace CURD_Opration_4
             this.iconButton_Employee.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.iconButton_Employee.Font = new System.Drawing.Font("Georgia", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.iconButton_Employee.ForeColor = System.Drawing.Color.Gainsboro;
-            this.iconButton_Employee.IconChar = FontAwesome.Sharp.IconChar.UserTie;
+            this.iconButton_Employee.IconChar = FontAwesome.Sharp.IconChar.R;
             this.iconButton_Employee.IconColor = System.Drawing.Color.Gainsboro;
             this.iconButton_Employee.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton_Employee.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
