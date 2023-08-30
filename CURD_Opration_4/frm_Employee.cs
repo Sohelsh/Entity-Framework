@@ -16,5 +16,10 @@ namespace CURD_Opration_4
         {
             InitializeComponent();
         }
+
+        private void frm_Employee_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
