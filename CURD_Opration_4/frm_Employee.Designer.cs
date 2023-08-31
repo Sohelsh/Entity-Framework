@@ -221,7 +221,7 @@ namespace CURD_Opration_4
             this.gb_Personal_Information.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.gb_Personal_Information.Name = "gb_Personal_Information";
             this.gb_Personal_Information.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.gb_Personal_Information.Size = new System.Drawing.Size(1103, 217);
+            this.gb_Personal_Information.Size = new System.Drawing.Size(1034, 217);
             this.gb_Personal_Information.TabIndex = 17;
             this.gb_Personal_Information.TabStop = false;
             this.gb_Personal_Information.Text = "Personal Information";
