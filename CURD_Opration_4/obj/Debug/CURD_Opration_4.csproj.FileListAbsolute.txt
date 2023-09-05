@@ -1,0 +1,15 @@
+F:\C#\Entity_Framework\CURD_Opration_4\bin\Debug\CURD_Opration_4.exe.config
+F:\C#\Entity_Framework\CURD_Opration_4\bin\Debug\CURD_Opration_4.exe
+F:\C#\Entity_Framework\CURD_Opration_4\bin\Debug\CURD_Opration_4.pdb
+F:\C#\Entity_Framework\CURD_Opration_4\bin\Debug\FontAwesome.Sharp.dll
+F:\C#\Entity_Framework\CURD_Opration_4\obj\Debug\CURD_Opration_4.csproj.AssemblyReference.cache
+F:\C#\Entity_Framework\CURD_Opration_4\obj\Debug\CURD_Opration_4.frm_Add_Employee.resources
+F:\C#\Entity_Framework\CURD_Opration_4\obj\Debug\CURD_Opration_4.Properties.Resources.resources
+F:\C#\Entity_Framework\CURD_Opration_4\obj\Debug\CURD_Opration_4.csproj.GenerateResource.cache
+F:\C#\Entity_Framework\CURD_Opration_4\obj\Debug\CURD_Opration_4.csproj.CoreCompileInputs.cache
+F:\C#\Entity_Framework\CURD_Opration_4\obj\Debug\CURD_Opration_4.csproj.CopyComplete
+F:\C#\Entity_Framework\CURD_Opration_4\obj\Debug\CURD_Opration_4.exe
+F:\C#\Entity_Framework\CURD_Opration_4\obj\Debug\CURD_Opration_4.pdb
+F:\C#\Entity_Framework\CURD_Opration_4\obj\Debug\CURD_Opration_4.frm_Employee.resources
+F:\C#\Entity_Framework\CURD_Opration_4\bin\Debug\byMarc.Net2.WinControls.ToolStrip.Controls.dll
+F:\C#\Entity_Framework\CURD_Opration_4\bin\Debug\byMarc.Net2.WinControls.ToolStrip.Controls.xml
