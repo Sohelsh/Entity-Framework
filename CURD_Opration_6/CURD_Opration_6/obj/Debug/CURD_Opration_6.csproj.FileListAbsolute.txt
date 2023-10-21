@@ -1,0 +1,15 @@
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\bin\Debug\CURD_Opration_6.exe.config
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\bin\Debug\CURD_Opration_6.exe
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\bin\Debug\CURD_Opration_6.pdb
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\obj\Debug\CURD_Opration_6.csproj.AssemblyReference.cache
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\obj\Debug\CURD_Opration_6.frm_Add.resources
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\obj\Debug\CURD_Opration_6.Properties.Resources.resources
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\obj\Debug\CURD_Opration_6.csproj.GenerateResource.cache
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\obj\Debug\CURD_Opration_6.csproj.CoreCompileInputs.cache
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\obj\Debug\CURD_Opration_6.exe
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\obj\Debug\CURD_Opration_6.pdb
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\bin\Debug\EntityFramework.dll
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\bin\Debug\EntityFramework.xml
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\Entity_Framework\CURD_Opration_6\CURD_Opration_6\obj\Debug\CURD_Opration_6.csproj.CopyComplete
